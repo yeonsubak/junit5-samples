@@ -1,9 +1,5 @@
-# Gradle
-.gradle
-build/
-
 # Maven
-maven-wrapper.jar
+target/
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -12,18 +8,13 @@ gradle-app.setting
 /.classpath
 /.settings/
 /.project
-bin/
+/bin/
 
 # IntelliJ
 .idea
-out
 *.iml
 *.ipr
 *.iws
-.ijwb/
 
 # Misc
 *.log
-*.class
-.jqwik-database
-install-jdk.sh
